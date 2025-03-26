@@ -1,4 +1,23 @@
-<h2 align="left">Hey, ! i'm Gustavo!</h2>
+
+👋 Hey, I'm Gustavo!
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou aprendendo HTML, CSS e JavaScript para me tornar um desenvolvedor web. Gosto de explorar novas tecnologias e criar projetos para aprimorar minhas habilidades.
+
+🚀 Sobre Mim
+
+📚 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+
+🌱 Estudando desenvolvimento web
+
+🎯 Focado em aprender mais sobre front-end.
+
+💬 Sempre aberto a novas oportunidades e desafios em tecnologia.
+
+📫 Como me encontrar
+
+LinkedIn:
+ 
+E-mail: gustavo.techdev@gmail.com 
 
 ###
 
