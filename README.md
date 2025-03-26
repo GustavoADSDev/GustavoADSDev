@@ -13,9 +13,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou aprendendo
 
 💬 Sempre aberto a novas oportunidades e desafios em tecnologia.
 
-📫 Como me encontrar
+<h2>📫 Como me encontrar </h2>
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/gustavo-ferreira-dos-santos-419592352/
  
 E-mail: gustavo.techdev@gmail.com 
 
