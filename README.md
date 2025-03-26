@@ -1,5 +1,5 @@
 
-👋 Hey, I'm Gustavo!
+<h1>👋 Hey, I'm Gustavo! </h1>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou aprendendo HTML, CSS e JavaScript para me tornar um desenvolvedor web. Gosto de explorar novas tecnologias e criar projetos para aprimorar minhas habilidades.
 
