@@ -24,10 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GustavoADSDev/GustavoADSDev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhwc3Vtb2g1bnVzbGpsaXRtZGtzYWl0YzgyYzEzeXYwd2ViYzh6OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
