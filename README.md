@@ -3,7 +3,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou aprendendo HTML, CSS e JavaScript para me tornar um desenvolvedor web. Gosto de explorar novas tecnologias e criar projetos para aprimorar minhas habilidades.
 
-🚀 Sobre Mim
+ <h1>Sobre Mim</h1>
 
 📚 Cursando Análise e Desenvolvimento de Sistemas (ADS)
 
