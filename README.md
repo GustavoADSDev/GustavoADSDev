@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Me chamo Gustavo e sou de Campinas - SP.<br>📚 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS).<br>🌱 Estou estudando desenvolvimento web, com foco especial em front-end.<br>🎯 Meu objetivo é me tornar um desenvolvedor full stack, unindo front-end e back-end para criar soluções completas.<br>💬 Estou aberto a novas oportunidades e desafios, principalmente aqueles que me ajudem a crescer como desenvolvedor.</h2>
+<h2 align="left"> Olá! Me chamo Gustavo e sou de Campinas - SP.<br> Atualmente curso Análise e Desenvolvimento de Sistemas (ADS).<br> Estou estudando desenvolvimento web, com foco especial em front-end.<br> Meu objetivo é me tornar um desenvolvedor full stack, unindo front-end e back-end para criar soluções completas.<br> Estou aberto a novas oportunidades e desafios, principalmente aqueles que me ajudem a crescer como desenvolvedor.</h2>
 
 ###
 
